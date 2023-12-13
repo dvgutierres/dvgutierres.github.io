@@ -3,7 +3,7 @@ import "./header.css"
 
 function Header() {
 return (
-    <nav className="Header">
+    <nav className="header">
         <ul className="list">
 
             <li className="item">

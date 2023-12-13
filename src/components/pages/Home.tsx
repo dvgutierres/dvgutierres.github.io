@@ -1,11 +1,9 @@
-import { Link } from "react-router-dom";
+import Title from "../views/title";
 
 function Home() {
 return (
     <div>
-    <Link to="/" >Home</Link>
-    <Link to="/projects" >Projects</Link>
-    <Link to="/contact" >Contact</Link>
+        <Title />
     </div>
     )
 }
