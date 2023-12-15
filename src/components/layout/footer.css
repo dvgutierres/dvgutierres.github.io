@@ -7,3 +7,10 @@
     color: white;
     text-align: center;
   }
+
+.footer_list {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

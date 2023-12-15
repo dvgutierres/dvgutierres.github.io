@@ -10,6 +10,10 @@ export default function Title() {
             style={{
               width: '100%',
               height: 'auto',
+              position: 'unset',
+              zIndex: '-1',
+              top: 0,
+              left: 0,
             }}
           />
       </div>
